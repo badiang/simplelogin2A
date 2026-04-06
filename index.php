@@ -27,7 +27,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST'){
     <title>Document</title>
 </head>
 <body>
-    <h2>Login</h2>
+    <h2>KILVEN MARK BADIANG</h2>
     
     <?php if (!empty($error)) echo "<p style = 'color:red'>$error</p>"?>
 
